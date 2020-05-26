@@ -5,4 +5,4 @@
 
 
 
-<img src="maskedface/masked_face.jpg"
+<img src="maskedface/masked_face.jpg">
